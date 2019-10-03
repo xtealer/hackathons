@@ -131,7 +131,7 @@ class Viz extends React.Component {
                         <VerticalBarSeries data={data_model_emissions2} />
                     </XYPlot>
                 </div >
-                <div className="w-100 bg-dark py-2"><h3 className="text-light text-center">Made by: <a href="https://github.com/luisbernal02">Luis Bernal</a>, <a href="https://github.com/drkmsk">Adrian Carcache</a>, <a href="https://github.com/xtealer00">Humberto De Leon</a> y <a href="https://github.com/latticepolys">Jose Urriola</a> @ <a href="https://github.com/eurusutp/Black-Hat/">Hackathon 2.0</a></h3></div>
+                <div className="w-100 bg-dark py-2"><h3 className="text-light text-center">Made by: Luis Bernal, Adrian Carcache, Humberto De Leon y Jose Urriola @ Hackathon 2.0</h3></div>
             </div >
         )
     }
